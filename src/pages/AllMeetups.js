@@ -6,14 +6,14 @@ const DUMMY_DATA = [
     title: "React Meetup",
     description: "React Meetup",
     image:
-      "https://images.unsplash.com/photo-1589571208531-b9f8f9f8f9f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "https://en.wikipedia.org/wiki/File:P.S._Kr%C3%B8yer,_Et_m%C3%B8de_i_Videnskabernes_Selskab,_1897,_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg",
   },
   {
     id: "m2",
     title: "React Native Meetup",
     description: "React Native Meetup",
     image:
-      "https://images.unsplash.com/photo-1589571208531-b9f8f9f8f9f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "https://en.wikipedia.org/wiki/File:P.S._Kr%C3%B8yer_-_Summer_evening_on_Skagen%27s_Beach._Anna_Ancher_and_Marie_Kr%C3%B8yer_walking_together._-_Google_Art_Project.jpg",
   },
 ];
 
