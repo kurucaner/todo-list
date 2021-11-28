@@ -7,7 +7,7 @@ const DUMMY_DATA = [
     title: "React Meetup",
     description: "React Meetup",
     image:
-      "https://en.wikipedia.org/wiki/File:P.S._Kr%C3%B8yer,_Et_m%C3%B8de_i_Videnskabernes_Selskab,_1897,_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg",
+      "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
   },
   {
     id: "m2",
